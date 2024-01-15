@@ -2,7 +2,7 @@
 
 <h3 align="left"> A funny developer/student who likes videogames and making them!</h3>
 - 🔭 I’m currently working with  <span><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"> <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white"> 	<img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=plastic&logo=godot-engine"> <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white"> </span> <p>
-- Also check my Windows XP style <a href="https://fagirton.github.io/">website</a> It's <span><img alt="under construction" scr="https://img.shields.io/badge/under_construction-FAC941.svg?style=plastic" ></span> now!
+- Also check my Windows XP style <a href="https://fagirton.github.io/">website</a> It's <span><img alt="under construction" src="https://github.com/fagirton/fagirton/raw/main/img/undercon2.gif"><img alt="under construction" src="https://github.com/fagirton/fagirton/raw/main/img/undercon2-2.gif"><img alt="under construction" src="https://github.com/fagirton/fagirton/raw/main/img/undercon2-3.gif"></span> now!
 <p><img alt="codewars" src="https://www.codewars.com/users/fagirton/badges/large" href="https://www.codewars.com/users/fagirton">
 
 
