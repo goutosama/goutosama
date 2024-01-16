@@ -10,7 +10,7 @@ I like to learn a lot of new IT stuff, mostly connected to gaming, game developm
 
 I do a lot of projects at once and not always tend to finish them :)
 
-- Also check my Windows XP style [website](https://fagirton.github.io/) made with the purest HTML, CSS and JS as if it's 2006, but it's ![under construction](https://github.com/fagirton/fagirton/raw/main/img/undercon2.gif)![under construction](https://github.com/fagirton/fagirton/raw/main/img/undercon2-2.gif) now!
+- Also check my Windows XP style [website](https://fagirton.github.io/) made with the purest HTML, CSS and JS as if it's 2006, but it's  <img alt="under construction" src="https://github.com/fagirton/fagirton/raw/main/img/undercon2.gif" height=20><img alt="under construction" src="https://github.com/fagirton/fagirton/raw/main/img/undercon2-2.gif" height=20> now!
 
 ![codewars](https://www.codewars.com/users/fagirton/badges/large)
 <!--
